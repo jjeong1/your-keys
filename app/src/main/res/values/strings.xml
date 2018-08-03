@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Don\'t Forget Your Keys</string>
     <string name="textview">TextView</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 </resources>
